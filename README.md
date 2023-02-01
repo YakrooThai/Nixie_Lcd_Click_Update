@@ -5,3 +5,4 @@ For Update Firmware
 https://www.youtube.com/watch?v=HbwMp17rduE&t=11s
 
 https://www.youtube.com/watch?v=EK3MjSh-hBI
+[UpFirmwareNixie_2.pdf](https://github.com/YakrooThai/Nixie_Lcd_Click_Update/files/10555036/UpFirmwareNixie_2.pdf)
