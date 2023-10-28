@@ -1,3 +1,8 @@
+Raspberry PICO IPS Clock Lcd
+Make Nixie Clock for ST7735+Raspberry PICO
+
+I want to make a beautiful clock project using the equipment I have. ST7735 and Raspberry Pi PICO in Micropython language
+
 ![326564184_728747638680045_4538126984864913055_n](https://user-images.githubusercontent.com/56666070/217821411-b31683ca-e3c1-4049-bc01-ce8424b859f2.png)
 
 ![20230131_184757](https://user-images.githubusercontent.com/56666070/215782793-3dcff8cb-0560-41d3-9732-241b3cbefce2.jpg)
